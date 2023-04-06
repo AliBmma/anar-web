@@ -241,7 +241,7 @@ background-image: linear-gradient(315deg, #feae96 0%, #fe0944 74%);
     width: 50%;
   }
   .second-last{
-    background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
+    background:linear-gradient(to right, #BF953F, #ddd8a4, #c79937, #d0cc99, #AA771C);
     
     margin-top: 3px;
     padding-top: 15px;
