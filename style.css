@@ -10,11 +10,11 @@ body{
 }
 .navbar-nav{
   margin-top: 10px;
-margin-right: 14cm;
+margin-right: 16cm;
   
   
 }
-.aa{font-family: 'Noto Kufi Arabic', sans-serif; 
+.aa{font-family: 'Noto Kufi Arabic', sans-serif;
   position: sticky;}
 .navbar-inverse .navbar-nav>li>a{
   

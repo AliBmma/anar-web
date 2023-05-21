@@ -1,0 +1,22 @@
+.navbar{
+    min-height: 76px;
+  }
+  .navbar-nav{
+    margin-top: 10px;
+  margin-right: 16cm;
+    
+    
+  }
+  .navbar-inverse .navbar-nav>li>a:hover{
+    color: goldenrod;
+  }
+  .navbar-inverse .navbar-nav>li>a{
+  
+    color: goldenrod;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+.navbar-inverse {
+  background-color: transparent;
+  border: none;
+}
