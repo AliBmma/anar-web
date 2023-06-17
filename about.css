@@ -1,7 +1,7 @@
 .navbar{
     min-height: 76px;
   }
-  .navbar-nav{
+  .navbar-nav  {
     margin-top: 10px;
   margin-right: 16cm;
     
@@ -16,7 +16,7 @@
     font-size: 20px;
     transition: 0.5s;
   }
-.navbar-inverse {
+.navbar-inverse  {
   background-color: transparent;
   border: none;
 }

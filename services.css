@@ -13,7 +13,7 @@ margin-right: 16cm;
   .navbar-inverse .navbar-nav>li>a:hover{
     color: goldenrod;
   }
-  .card{
+  .card .fb-post{
       border: 4px goldenrod solid;
       border-radius: 5px;
       border-bottom: 10px goldenrod solid;
@@ -24,15 +24,15 @@ margin-right: 16cm;
   .col-sm-4{
       margin-bottom: 15px;
   }
-  .card-img-top{
+  .card-img-top {
     width: 100%;
-    height: auto;
+    height: 100%;
   }
   .card-title{
     text-align: center;
     color: black;
     font-size: 25px;
-    font-weight: 600;
+    font-weight: 400;
   }
 
   .navbar-inverse {
